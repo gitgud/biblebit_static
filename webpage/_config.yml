@@ -1,4 +1,4 @@
-theme: jekyll-theme-time-machine
+theme: jekyll-theme-architect
 
 plugins:
   - jekyll-relative-links
@@ -9,4 +9,4 @@ include:
   - p2.md
 
 title: yolo
-description: <description of your webpage> 
+description: <description of your webpage>
